@@ -1,0 +1,22 @@
+button {
+    background-color: yellow;
+    color: purple;
+}
+
+.hero {
+    background-color: purple;
+    height: 100vh;
+    text-align: center;
+}
+.hero h2 {
+    font-size: 50px;
+    color: white;
+}
+.hero h1 {
+    font-size: 70px;
+    color: white;
+}
+.hero p {
+    font-size: 20px;
+    color: yellow;
+}
