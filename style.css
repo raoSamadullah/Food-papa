@@ -1,6 +1,8 @@
 button {
     background-color: yellow;
     color: purple;
+    font-size: 20px;
+    border: none;
 }
 
 .hero {
@@ -19,4 +21,26 @@ button {
 .hero p {
     font-size: 20px;
     color: yellow;
+}
+.next {
+    height: 600px;
+    width: 700px;
+}
+.hero h3 {
+    font-size: 40px;
+    color: purple;
+    text-align: left;
+}
+select {
+    color: purple;
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+}
+
+.bond {
+    font-size: 30px;
+    color: white;
+    border: 20px solid purple;
+    background-color: purple;
 }
